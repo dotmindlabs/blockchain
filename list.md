@@ -12,7 +12,8 @@ FedWatch: https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html
 
 TokenWatch: https://token.unlocks.app/?category=all
 
-# Crypto (Jobs/Career)
+## Crypto (Jobs/Career)
 
 https://web3.career/
+
 https://cryptojobslist.com/
